@@ -1,0 +1,7 @@
+#vscode
+.vscode
+#课程资料
+/课件
+*.ppt
+*.pptx
+*.mp4
